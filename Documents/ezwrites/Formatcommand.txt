@@ -1,0 +1,4 @@
+1,$s/\n/¶ /g
+s/Table of Contents   Introduction\zs\_.\{-}\zepattern2/\=setreg('x',submatch(0))>-1:'':''/
+
+

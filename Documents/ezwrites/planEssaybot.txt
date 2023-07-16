@@ -1,0 +1,42 @@
+ad tips- 100% original paper, plagarism free paper
+
+		WHY-
+
+bot which can create different categories of essays which covers most assessment types, optimised for high grades and not being perceptible by ai checkers
+
+		WHAT-
+
+1database of high grade level assessments divided into the following categories-
+Narrative/short story
+Analytic (includes literature review)
+informative/research
+Argumentative/persuasive speech
+presentation/script (upsell slides?)
+case study MAYBE*
+
+2allow for users to include their own source links and files, maybe source database
+
+3ai bot which makes assessments, split into categories with optimized parameters
+
+4runs through ai checker if score bellow threshold then pass
+
+		HOW-
+1 create or download a databse of essays, separate them by perspective(scientific, third person, first person), type(listed above), subjcect(english, sciences, humanities, arts/sissy shit), modality/tone(persuasive, scientific, formal), upload to api
+
+2get user source wepages or files and store in local db, fullfilment app runs bot and analyses/downloads sources
+
+3tune settings until best assignment comes out idk how to measure it, perspective subject and others are args in category function
+
+4run through aichecker, hopefully through api
+
+		GOALS-
+fully avoid ai checkers. Optimize grades, and prompt comprehension/make sure ai creates the assessment it's asked to do
+
+		SCOPE-
+create basic bot then ad database and categories, aichecker program, integrate, design website, publish,  allow for sources, newgame+
+
+tech used-
+openai
+shopify backend/apps
+shopify frontend
+database(maybe)
